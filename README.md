@@ -1,4 +1,6 @@
 ### Olá eu sou a Beatriz Ferraz 👋
+Tenho 23 anos, Graduanda em sistemas de informação e desenvolvimento front End pela Laboratoria Brasil.
+Seja muito bem vindo(a)!
 
 
  <div>
