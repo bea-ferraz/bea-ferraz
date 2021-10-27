@@ -35,3 +35,5 @@ Seja muito bem vindo(a)!
 
  
 </div>
+  
+  ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
