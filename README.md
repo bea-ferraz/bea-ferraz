@@ -1,6 +1,6 @@
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif) 
 
 ### Olá eu sou a Beatriz Ferraz 👋
 Tenho 23 anos, Graduanda em sistemas de informação e desenvolvimento front End pela Laboratoria Brasil.
@@ -11,7 +11,7 @@ Seja muito bem vindo(a)!
   <a href="https://github.com/bea-ferraz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-ferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-ferraz&layout=compact&langs_count=7&theme=dracula"/>
- <img align="right" min-width="200px" max-width="250px" width="400px" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/source.gif">
+ <img align="right" min-width="200px" max-width="250px" width="200px" src="https://ik.imagekit.io/bga7odqg1yl/ARQUIVOS/beaemogi_vEHK3Jdo0.png?updatedAt=1635536702948">
  </div>
  
 <div style="display: inline_block"><br>
