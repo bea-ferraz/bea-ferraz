@@ -1,10 +1,12 @@
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif) 
-
-### Olá eu sou a Beatriz Ferraz 👋
+ ### Olá eu sou a Beatriz Ferraz 👋
 Tenho 23 anos, Graduanda em sistemas de informação e desenvolvimento front End pela Laboratoria Brasil.
 Seja muito bem vindo(a)!
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif) 
+
+
 
 
  <div>
