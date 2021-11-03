@@ -11,8 +11,8 @@ Seja muito bem vindo(a)!
 
  <div>
   <a href="https://github.com/bea-ferraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-ferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-ferraz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=bea-ferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-ferraz&layout=compact&langs_count=7&theme=dracula"/>
  <img align="right" min-width="200px" max-width="250px" width="200px" src="https://ik.imagekit.io/bga7odqg1yl/ARQUIVOS/beaemogi_vEHK3Jdo0.png?updatedAt=1635536702948">
  </div>
  
