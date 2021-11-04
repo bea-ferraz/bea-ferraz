@@ -7,11 +7,12 @@ Seja muito bem vindo(a) fique a vontade para me chamar para tomarmos um café e 
  <a href= "www.linkedin.com/in/beatrizferraz-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/trizferraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:beaferraz.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+ <h4 align="center"><a href="https://bea-ferraz.github.io/Portifolio/">Clique para visitar o meu portifolio</a></h4>
+ 
  ##
+
  
 ![c633c20ede82f0e0ced7d570dbe3a1f4](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)
-
 
 
 
