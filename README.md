@@ -2,7 +2,7 @@
  
  ### Hello Word sou a Bia muito prazer! 👋
 Formada pela laboratória brasil como desenvolvedora Front End e graduanda em sistemas de informação.
-Seja muito bem vindo(a) fique a vontade para me chamar para tomarmos um café e bater um papo virtual!
+Seja muito bem vindo(a) fique a vontade para me chamar para tomarmos um café e bater um papo virtual! :coffee: 
  
  <a href= "www.linkedin.com/in/beatrizferraz-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/trizferraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
