@@ -35,6 +35,13 @@ Seja muito bem vindo(a) fique a vontade para me chamar para tomarmos um café e 
   
 </div>
   
+  <p align="center"> 
+
+ ## 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/bea-ferraz/count.svg" />
+ </p>
+  
   ##
   
   ![Snake animation](https://github.com/bea-ferraz/bea-ferraz/blob/output/github-contribution-grid-snake.svg)
