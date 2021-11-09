@@ -1,6 +1,7 @@
 <h4 align="center">
  
  ### Hello Word sou a Bia muito prazer! 👋
+ <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 Formada pela laboratória brasil como desenvolvedora Front End e graduanda em sistemas de informação.
 Seja muito bem vindo(a) fique a vontade para me chamar para tomarmos um café e bater um papo virtual! :coffee: 
  
@@ -8,6 +9,7 @@ Seja muito bem vindo(a) fique a vontade para me chamar para tomarmos um café e 
   <a href="https://www.instagram.com/trizferraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:beaferraz.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <h4 align="center"><a href="https://bea-ferraz.github.io/Portifolio/">Clique para visitar o meu portifolio</a></h4>
+
  
  ##
 
